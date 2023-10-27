@@ -1,0 +1,22 @@
+.App{
+  display: inline-block;
+  margin-top: 20vh;
+    margin-left: 30%;
+  height: 100vh;
+  width: 100vw;
+}
+ h1{
+  text-align: center;
+  font-size: 3rem;
+ }
+.App a{
+  display: inline-block;
+  font-size: 1.5rem;
+
+}
+
+.App button{
+ margin: 0px 5px;
+  font-weight: 700;
+  padding: 2px;
+}
